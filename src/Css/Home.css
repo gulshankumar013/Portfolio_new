@@ -385,7 +385,7 @@ body {
     margin-left: 20%;
   }
   .section3-child-2{
-    background-color: #c2f100;
+    background-color: #f1c40f;
     height: 200%;
     width: 100%;
     margin-top: -40px;
@@ -524,7 +524,7 @@ body {
 }
 /* Container for floating text */
 .floating-text-container {
-  background-color: #c2f100;
+  background-color: #f1c40f;
   overflow: hidden;
   height: 200px;
   width: 100%;
