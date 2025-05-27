@@ -139,7 +139,7 @@ const sendEmail = (e) => {
     {/* Right side: Resume button + social icons */}
     <div className="nav-right-items">
       <a
-        href="src\assets\GULSHAN KUMAR.pdf"
+        href="GULSHAN KUMAR.pdf"
         download
         className="resume-btn"
       >
